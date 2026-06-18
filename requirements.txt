@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+facebook-prophet
+tensorflow
+scikit-learn
+folium
+requests
